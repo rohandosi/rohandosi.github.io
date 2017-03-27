@@ -95,6 +95,19 @@
     height: 4px;
     background-color: #FFFFFF;
 }
+
+.separator {
+    margin-top: 20px;
+}
+
+.quote {
+    font-size: 2em;
+}
+
+.tagline {
+    line-height: 25px;
+}
+
 .cover-container .cover .content h4 {
     max-width: 550px;
     margin-top: 20px;
